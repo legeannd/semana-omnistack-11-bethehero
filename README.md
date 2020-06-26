@@ -1,3 +1,3 @@
-# semana-omnistack-11
+# Be The Hero
 
-Curso da 11a edição da semana Omnistack da RocketSeat
+Sistema para conectar ONGs a pessoas dispostas a ajudar
